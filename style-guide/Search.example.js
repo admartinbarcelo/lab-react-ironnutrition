@@ -5,7 +5,7 @@
 import { Divider, Input } from 'antd';
 
 // Iteration 5
-function Search(props) {
+function Search() {
   return (
     <>
       <Divider>Search</Divider>
